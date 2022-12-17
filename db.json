@@ -2,27 +2,27 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "O labirinto do Logcat",
-      "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-      "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+      "titulo": "Capitão América: O Primeiro Vingador",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg/250px-Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg",
+      "link": "https://www.youtube.com/watch?v=VyBS-UZVaNk"
     },
     {
       "id": 2,
-      "titulo": "Um componente no espaço",
-      "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-      "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+      "titulo": "Capitão América 2: O Soldado Invernal",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Captain_America_The_Winter_Soldier.jpg/243px-Captain_America_The_Winter_Soldier.jpg",
+      "link": "https://www.youtube.com/watch?v=Fl89Ym_fQJc"
     },
     {
       "id": 3,
-      "titulo": "O poderoso JavaScript",
-      "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-      "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+      "titulo": "Capitão América: Guerra Civil",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/5/53/Captain_America_Civil_War_poster.jpg",
+      "link": "https://www.youtube.com/watch?v=3p1d_6_ocEE"
     },
     {
       "id": 4,
-      "titulo": "Dart, o Caçador de Andróides",
-      "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-      "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+      "titulo": "Vingadores: Ultimato",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
+      "link": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
     }
   ]
 }
