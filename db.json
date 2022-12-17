@@ -4,25 +4,29 @@
       "id": 1,
       "titulo": "Capitão América: O Primeiro Vingador",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg/250px-Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg",
-      "link": "https://www.youtube.com/watch?v=VyBS-UZVaNk"
+      "link": "https://www.youtube.com/watch?v=VyBS-UZVaNk",
+      "sinopse": "2ª Guerra Mundial. Steve Rogers (Chris Evans) é um jovem que aceitou ser voluntário em uma série de experiências que visam criar o supersoldado americano. Os militares conseguem transformá-lo em uma arma humana, mas logo percebem que o supersoldado é valioso demais para pôr em risco na luta contra os nazistas. Desta forma, Rogers é usado como uma celebridade do exército, marcando presença em paradas realizadas pela Europa no intuito de levantar a estima dos combatentes. Para tanto passa a usar uma vestimenta com as cores da bandeira dos Estados Unidos, azul, branca e vermelha. Só que um plano nazista faz com que Rogers entre em ação e assuma a alcunha de Capitão América, usando seus dons para combatê-los em plenas trincheiras da guerra."
     },
     {
       "id": 2,
       "titulo": "Capitão América 2: O Soldado Invernal",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Captain_America_The_Winter_Soldier.jpg/243px-Captain_America_The_Winter_Soldier.jpg",
-      "link": "https://www.youtube.com/watch?v=Fl89Ym_fQJc"
+      "link": "https://www.youtube.com/watch?v=Fl89Ym_fQJc",
+      "sinopse": "Dois anos após os acontecimentos em Nova York (Os Vingadores - The Avengers), Steve Rogers (Chris Evans) continua seu dedicado trabalho com a agência S.H.I.E.L.D. e também segue tentando se acostumar com o fato de que foi descongelado e acordou décadas depois de seu tempo. Em parceria com Natasha Romanoff (Scarlett Johansson), também conhecida como Viúva Negra, ele é obrigado a enfrentar um poderoso e misterioso inimigo chamado Soldado Invernal, que visita Washington e abala o dia a dia da S.H.I.E.L.D., ainda liderada por Nick Fury (Samuel L. Jackson)."
     },
     {
       "id": 3,
       "titulo": "Capitão América: Guerra Civil",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/5/53/Captain_America_Civil_War_poster.jpg",
-      "link": "https://www.youtube.com/watch?v=3p1d_6_ocEE"
+      "link": "https://www.youtube.com/watch?v=3p1d_6_ocEE",
+      "sinopse": "Em Capitão América: Guerra Civil, Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro."
     },
     {
       "id": 4,
       "titulo": "Vingadores: Ultimato",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
-      "link": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+      "link": "https://www.youtube.com/watch?v=g6ng8iy-l0U",
+      "sinopse": "Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, o Capitão América/Steve Rogers (Chris Evans) e a Viúva Negra/Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco."
     }
   ]
 }
